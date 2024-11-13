@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Python and Java<br>🌞 Currently learning about databases and machine learning<br>👨‍🔬 Class of 2028 at ASU for Computer Science<br>💥 Relevant Coursework:<br>🚀 Object Oriented Programming and Data Structures<br>✨ Calculus 3<br>
+🔭 Python and Java<br>🌞 Currently learning about backend development and machine learning<br>👨‍🔬 Class of 2028 at ASU for Computer Science<br>💥 Relevant Coursework:<br>🚀 Object Oriented Programming and Data Structures<br>✨ Calculus 3<br>
 
 
 ## 🌐 Socials:

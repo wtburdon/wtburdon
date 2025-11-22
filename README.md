@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Python and Java<br>👨‍🔬 Class of 2028 at ASU for Computer Science<br>
+👨‍🔬 Class of 2028 at ASU for Computer Science<br>
 
 
 ## 🌐 Socials:
